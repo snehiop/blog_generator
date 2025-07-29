@@ -1,0 +1,31 @@
+# ✅ Local envs
+venv/
+env/
+myenv/
+.myenv/
+
+# ✅ Cache
+__pycache__/
+*.py[cod]
+
+# ✅ Jupyter
+.ipynb_checkpoints/
+
+# ✅ Secrets
+.env
+
+# ✅ OS junk
+.DS_Store
+Thumbs.db
+
+# ✅ VSCode config
+.vscode/
+
+# ✅ Streamlit logs
+.streamlit/
+
+# ✅ System logs
+*.log
+
+# ✅ Data folder
+data/
